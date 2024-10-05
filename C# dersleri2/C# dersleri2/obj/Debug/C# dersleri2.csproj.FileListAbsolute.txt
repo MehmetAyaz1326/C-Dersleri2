@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\C# dersleri2\C# dersleri2\bin\Debug\C# dersleri2.exe.config
+C:\Users\USER\source\repos\C# dersleri2\C# dersleri2\bin\Debug\C# dersleri2.exe
+C:\Users\USER\source\repos\C# dersleri2\C# dersleri2\bin\Debug\C# dersleri2.pdb
+C:\Users\USER\source\repos\C# dersleri2\C# dersleri2\obj\Debug\C# dersleri2.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\C# dersleri2\C# dersleri2\obj\Debug\C# dersleri2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\C# dersleri2\C# dersleri2\obj\Debug\C# dersleri2.exe
+C:\Users\USER\source\repos\C# dersleri2\C# dersleri2\obj\Debug\C# dersleri2.pdb
